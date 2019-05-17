@@ -1,0 +1,22 @@
+{
+  "name": "insomnia-plugin-shenfenzheng",
+  "description": "Generate random shenfenzheng inside the Insomnia REST client",
+  "version": "1.0.0",
+  "main": "randomcertno.js",
+  "insomnia": {
+    "name": "randomCertNo",
+    "description": "Generate a random certno"
+  },
+  "repository": "",
+  "dependencies": [],
+  "devDependencies": [],
+  "keywords": [
+    "insomnia",
+    "plugin",
+    "plugins",
+    "random",
+    "rng",
+    "number",
+    "generator"
+  ]
+}
